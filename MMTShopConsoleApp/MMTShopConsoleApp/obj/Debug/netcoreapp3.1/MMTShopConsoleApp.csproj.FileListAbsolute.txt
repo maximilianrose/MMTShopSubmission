@@ -1,0 +1,15 @@
+C:\Users\maxim\source\repos\MMTShopConsoleApp\MMTShopConsoleApp\bin\Debug\netcoreapp3.1\MMTShopConsoleApp.exe
+C:\Users\maxim\source\repos\MMTShopConsoleApp\MMTShopConsoleApp\bin\Debug\netcoreapp3.1\MMTShopConsoleApp.deps.json
+C:\Users\maxim\source\repos\MMTShopConsoleApp\MMTShopConsoleApp\bin\Debug\netcoreapp3.1\MMTShopConsoleApp.runtimeconfig.json
+C:\Users\maxim\source\repos\MMTShopConsoleApp\MMTShopConsoleApp\bin\Debug\netcoreapp3.1\MMTShopConsoleApp.runtimeconfig.dev.json
+C:\Users\maxim\source\repos\MMTShopConsoleApp\MMTShopConsoleApp\bin\Debug\netcoreapp3.1\MMTShopConsoleApp.dll
+C:\Users\maxim\source\repos\MMTShopConsoleApp\MMTShopConsoleApp\bin\Debug\netcoreapp3.1\MMTShopConsoleApp.pdb
+C:\Users\maxim\source\repos\MMTShopConsoleApp\MMTShopConsoleApp\obj\Debug\netcoreapp3.1\MMTShopConsoleApp.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\MMTShopConsoleApp\MMTShopConsoleApp\obj\Debug\netcoreapp3.1\MMTShopConsoleApp.AssemblyInfoInputs.cache
+C:\Users\maxim\source\repos\MMTShopConsoleApp\MMTShopConsoleApp\obj\Debug\netcoreapp3.1\MMTShopConsoleApp.AssemblyInfo.cs
+C:\Users\maxim\source\repos\MMTShopConsoleApp\MMTShopConsoleApp\obj\Debug\netcoreapp3.1\MMTShopConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\MMTShopConsoleApp\MMTShopConsoleApp\obj\Debug\netcoreapp3.1\MMTShopConsoleApp.dll
+C:\Users\maxim\source\repos\MMTShopConsoleApp\MMTShopConsoleApp\obj\Debug\netcoreapp3.1\MMTShopConsoleApp.pdb
+C:\Users\maxim\source\repos\MMTShopConsoleApp\MMTShopConsoleApp\obj\Debug\netcoreapp3.1\MMTShopConsoleApp.genruntimeconfig.cache
+C:\Users\maxim\source\repos\MMTShopConsoleApp\MMTShopConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\maxim\source\repos\MMTShopConsoleApp\MMTShopConsoleApp\obj\Debug\netcoreapp3.1\MMTShopConsoleApp.csproj.CopyComplete

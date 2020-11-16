@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+h42iTLmR3fQ3EuS9JVbX+6UgeB3bhXT5TbZu0lm99jFTHk/QL+zhOIRkyPNgrSEVbCXo3WDMKSBnayyM4GzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxim\\source\\repos\\MMTShopConsoleApp\\MMTShopConsoleApp\\MMTShopConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxim\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
