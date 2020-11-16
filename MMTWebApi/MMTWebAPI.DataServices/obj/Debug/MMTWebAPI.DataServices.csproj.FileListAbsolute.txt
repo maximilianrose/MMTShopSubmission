@@ -1,0 +1,9 @@
+C:\Users\maxim\source\repos\MMTWebApi\MMTWebAPI.DataServices\bin\Debug\MMTWebAPI.DataServices.dll
+C:\Users\maxim\source\repos\MMTWebApi\MMTWebAPI.DataServices\bin\Debug\MMTWebAPI.DataServices.pdb
+C:\Users\maxim\source\repos\MMTWebApi\MMTWebAPI.DataServices\bin\Debug\MMTWebAPI.DataObjects.dll
+C:\Users\maxim\source\repos\MMTWebApi\MMTWebAPI.DataServices\bin\Debug\MMTWebAPI.DataObjects.pdb
+C:\Users\maxim\source\repos\MMTWebApi\MMTWebAPI.DataServices\obj\Debug\MMTWebAPI.DataServices.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\MMTWebApi\MMTWebAPI.DataServices\obj\Debug\MMTWebAPI.DataServices.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\MMTWebApi\MMTWebAPI.DataServices\obj\Debug\MMTWebAPI.DataServices.csproj.CopyComplete
+C:\Users\maxim\source\repos\MMTWebApi\MMTWebAPI.DataServices\obj\Debug\MMTWebAPI.DataServices.dll
+C:\Users\maxim\source\repos\MMTWebApi\MMTWebAPI.DataServices\obj\Debug\MMTWebAPI.DataServices.pdb

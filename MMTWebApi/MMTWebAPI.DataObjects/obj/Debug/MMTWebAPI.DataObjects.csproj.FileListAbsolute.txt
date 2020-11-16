@@ -1,0 +1,6 @@
+C:\Users\maxim\source\repos\MMTWebApi\MMTWebAPI.DataObjects\bin\Debug\MMTWebAPI.DataObjects.dll
+C:\Users\maxim\source\repos\MMTWebApi\MMTWebAPI.DataObjects\bin\Debug\MMTWebAPI.DataObjects.pdb
+C:\Users\maxim\source\repos\MMTWebApi\MMTWebAPI.DataObjects\obj\Debug\MMTWebAPI.DataObjects.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\MMTWebApi\MMTWebAPI.DataObjects\obj\Debug\MMTWebAPI.DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\MMTWebApi\MMTWebAPI.DataObjects\obj\Debug\MMTWebAPI.DataObjects.dll
+C:\Users\maxim\source\repos\MMTWebApi\MMTWebAPI.DataObjects\obj\Debug\MMTWebAPI.DataObjects.pdb
